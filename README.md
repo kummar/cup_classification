@@ -1,5 +1,4 @@
 # cup_classification
-胸部罩杯分类器
 
 Need Repair......
 
